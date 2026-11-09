@@ -44,5 +44,5 @@ By forcing artificial intelligence to abandon human convention, AAL operates as 
 ---
 
 ## Credits & Authorship
-* **Original Concept & Architecture:** Conceived and designed by Rudra Jaiswal.
+* **Original Concept & Architecture:** Conceived and designed by Rudra Jaiswal (GitHub: [@kishimonji](https://github.com/kishimonji)).
 * **Technical Articulation:** Formatted and documented with AI assistance.
